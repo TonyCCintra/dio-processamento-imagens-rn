@@ -1,0 +1,25 @@
+# Ambientes Virtuais
+venv/
+*.env
+env/
+ENV/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Pasta de output gerada pelo script
+output_images/
