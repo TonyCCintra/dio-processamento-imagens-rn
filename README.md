@@ -19,7 +19,7 @@ dio-processamento-imagens-rn/
 ├── images/                   # Pasta para imagens de entrada
 │   └── minha_imagem.jpg      # Coloque sua imagem de exemplo aqui
 └── output_images/            # Pasta onde as imagens processadas são salvas (criada pelo script)
-```  <-- FIM DO BLOCO DE CÓDIGO
+```
 
 ## Como Usar Localmente
 
